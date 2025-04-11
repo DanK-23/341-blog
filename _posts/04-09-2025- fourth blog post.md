@@ -1,0 +1,1 @@
+This week I set myself the goal of writing out a script to reduce and extract the spectra that I obtained from the IGRINS library. With this I also set the goal of estimating the metallicity from this spectra. I started off trying to work with the fits files on my own for the reduced data just plotting it and seeing how it looked. 
